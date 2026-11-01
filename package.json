@@ -1,0 +1,10 @@
+{
+  "name": "basic-backend",
+  "version": "1.0.0",
+  "description": "A vanilla Node.js backend with routes and controllers",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "ISC"
+}
